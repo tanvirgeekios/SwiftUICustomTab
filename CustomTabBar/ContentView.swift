@@ -8,9 +8,11 @@
 import SwiftUI
 
 struct ContentView: View {
+    init(){
+        UITabBar.appearance().isHidden = true
+    }
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        Tabbar()
     }
 }
 

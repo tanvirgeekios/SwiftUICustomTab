@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "donut-png-5a3a9a8a2f5042.5085247915137900901938.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
